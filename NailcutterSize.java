@@ -1,0 +1,3 @@
+enum NailcutterSize{
+      SMALL,BIG;
+}
